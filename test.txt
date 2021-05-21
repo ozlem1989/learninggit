@@ -1,7 +1,3 @@
-<<<<<<< HEAD
 I think this is OK!!
-=======
-This is Right!!
->>>>>>> newfeature
 
 hey
